@@ -15,7 +15,9 @@ cd $(your_path)/ARM-BOOT-BASICS/FreeRTOS-ARM-BOOT
 make
 make qemu
 ```
-# Open another terminal
+## Open another terminal
 ```bash
 make gdb
 ```
+## Sample Snippet
+![alt text](snippets/snap_term.png)
