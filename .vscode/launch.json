@@ -4,7 +4,7 @@
           "name": "GDB",
           "type": "cppdbg",
           "request": "launch",
-          "program": "${workspaceFolder}/FreeRTOS-ARM-BOOT/main.elf",
+          "program": "${workspaceFolder}//FreeRTOS-ARM-BOOT/main.elf",
           "args": [],
           "stopAtEntry": true,
           "cwd": "${workspaceFolder}",
